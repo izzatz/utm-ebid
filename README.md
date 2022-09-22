@@ -12,3 +12,7 @@ Steps.
 
 Friendly reminder:
 Try to use small range. 10, 20 or maybe 30.
+
+Sample output.
+<p><img src='https://github.com/izzatz/utm-ebid/blob/5d8f712311a3fa22212dd27f5e5162ff496fc524/Screenshot%20at%20Sep%2022%2016-56-03.png'/></p>
+

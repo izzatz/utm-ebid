@@ -43,7 +43,7 @@ while num_counter < end_range:
 if belum_jual_list == []:
     print("Semua nombor telah terjual pada julat " + str(julat_asal) + "-" + str(end_range))
 else:
-    print("Nombor yang masih ada pada julat " + str(julat_asal) + "-" + str(end_range))
-    print(belum_jual_list)
+    print("\n ----- Nombor yang masih belum dijual pada julat " + str(julat_asal) + "-" + str(end_range) + " " + "-----\n")
+    print(*belum_jual_list, sep = "\n")
    
 driver.quit()

@@ -1,5 +1,5 @@
 # utm-ebid
-Find a plate number that available for registration by specifying a range in UTM eBid system.
+Find a plate number that available for registration by specifying a range in UTM eBid system - https://bida.utm.my/User/Pembida/SemakNombor.aspx
 
 Instead of manually search the available number one by one. Use this script to search the available number by specifying a range.
 
